@@ -1,4 +1,5 @@
 #voice-Assistant
+#linux plasma de
 import subprocess
 import wolframalpha
 import pyttsx3
