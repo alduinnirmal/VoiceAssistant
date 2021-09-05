@@ -1,5 +1,6 @@
 #voice-Assistant
 #linux plasma de
+#token generated
 import subprocess
 import wolframalpha
 import pyttsx3
